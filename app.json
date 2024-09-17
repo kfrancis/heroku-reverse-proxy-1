@@ -16,5 +16,5 @@
 			"description": "The URL the clients connect to. This should match your Custom Help Center Domain setting on Intercom."
 		}
 	},
-	"stack": "heroku-20"
+	"stack": "heroku-24"
 }
